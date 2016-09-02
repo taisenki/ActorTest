@@ -1,6 +1,5 @@
 package org.taisenki.actortest.simple
 
-import akka.actor.Actor.Receive
 import akka.actor._
 
 /**
