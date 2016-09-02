@@ -3,6 +3,7 @@ package org.taisenki.actortest.simple
 import akka.actor._
 
 /**
+ * 展示Actor内部调用相关hook的执行过程
  * Created by taisenki on 2016/8/31.
  */
 object ActorSimple4 extends App {
